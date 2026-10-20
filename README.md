@@ -177,4 +177,4 @@ There are 10 tests. The 6 in `tests/test_citation_verification.py` check citatio
 
 ## Author
 
-**Shahram Shafiq** - [GitHub](https://github.com/shahramshafiq) | [LinkedIn](https://www.linkedin.com/in/shahramshafiq/)
+Rana Taha 
